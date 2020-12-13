@@ -80,4 +80,5 @@ Zoom: **REDACTED**
 :closed_book: Attribution
 ---
 
+> This template currently lives [here](https://github.com/conwaycolorlab/ProjectManagement/edit/main/Lab%20Meeting/template.md).
 > This template is based on a combination of the [Whitaker Lab template](https://github.com/WhitakerLab/Onboarding/blob/176f630c9f4b8832d152377318e36f74ee076476/Lab-meetings.md) and the templates used by the [Open Life Science (OLS) program](https://openlifesci.org/).
