@@ -1,6 +1,6 @@
 # TEMPLATE: Conway Lab Meeting | `DATE`
 
-Time: 12:00 - 13:00 on Mondays
+Time: 12:00 - 13:00
 
 Zoom: **REDACTED**
 
