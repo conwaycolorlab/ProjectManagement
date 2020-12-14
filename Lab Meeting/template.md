@@ -11,8 +11,8 @@ Zoom: **REDACTED**
 :wave: Roll call
 ---
 
-> *Please add your name below.* 
-> *If you're happy to be called on to take notes add a  :memo: after your name.*
+> *Please add your name below if you're able to attend.* 
+> *If you're happy to be called on to take notes add a  :memo: after your name. Multiple people can take notes simultaneously (in fact it works better this way).*
 
 * [name=Name]
 * 
@@ -34,7 +34,7 @@ Zoom: **REDACTED**
 :ice_cream: Ice-breaker
 ---
 
-> Insert ice-breaker (e.g. What music are you listening to this week?)
+> <Insert ice-breaker (e.g. What music are you listening to this week?)>
 
 * 
 *
@@ -44,7 +44,7 @@ Zoom: **REDACTED**
 ---
 
 > *Please add a bullet point with something you'd like the lab members to know about.
-> You may respond to any of the points before or after the lab meeting, no need to wait until the 1 hour time slot!*
+> You may respond to any of the points before or after the lab meeting, no need to wait until the time slot!*
 
 * 
 * 
@@ -56,19 +56,30 @@ Zoom: **REDACTED**
 ---
 
 > *Please add a bullet point with something you'd like lab members' opinion on.
-> You may respond to any of the points before or after the lab meeting, no need to wait until the 1 hour time slot!*
+> You may respond to any of the points before or after the lab meeting, no need to wait until the time slot!*
 
 * 
 * 
 * 
+*
+*
+
+:wrench: Logistical Discussions Required
+---
+> *Need to discuss use of equipment or schedule a future event? Put a note here.*
+
 * 
 * 
+* 
+*
+*
 
 :open_book: Agenda & Notes
 ---
 
 > *This meeting is an open agenda.
-> The discussion points will be curated from the "things you’d like lab members' opinions on" section above.*
+> The discussion points will be curated from the sections above.
+> The notetaker(s) will add the notes here as we go. :memo:*
 
 * 
 * 
@@ -80,5 +91,5 @@ Zoom: **REDACTED**
 :closed_book: Attribution
 ---
 
-> This template currently lives [here](https://github.com/conwaycolorlab/ProjectManagement/edit/main/Lab%20Meeting/template.md).
-> This template is based on a combination of the [Whitaker Lab template](https://github.com/WhitakerLab/Onboarding/blob/176f630c9f4b8832d152377318e36f74ee076476/Lab-meetings.md) and the templates used by the [Open Life Science (OLS) program](https://openlifesci.org/).
+> The template for this document currently lives [here](https://github.com/conwaycolorlab/ProjectManagement/blob/main/Lab%20Meeting/template.md).
+> This template is based on a combination of the [Whitaker Lab template](https://github.com/WhitakerLab/Onboarding/blob/176f630c9f4b8832d152377318e36f74ee076476/Lab-meetings.md) and the templates used by the [Open Life Science program](https://openlifesci.org/).
