@@ -87,6 +87,11 @@ Zoom: **REDACTED**
 * 
 * 
 
+:calendar: Finishing Up
+---
+
+> Review the calendar for the week ahead
+
 
 :closed_book: Attribution
 ---
