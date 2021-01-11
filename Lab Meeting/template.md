@@ -91,6 +91,10 @@ Zoom: **REDACTED**
 ---
 
 > Review the calendar for the week ahead
+*
+
+> Next week agenda items:
+*
 
 
 :closed_book: Attribution
