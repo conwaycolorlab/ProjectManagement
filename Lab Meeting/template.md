@@ -12,7 +12,10 @@ Zoom: **REDACTED**
 ---
 
 > *Please add your name below if you're able to attend.* 
-> *If you're happy to be called on to take notes add a  :memo: after your name. Multiple people can take notes simultaneously (in fact it works better this way).*
+>
+> *To volunteer as facilitator add a :loudspeaker: after your name. This person will pick items from the various sections below and guide the discussion.*
+> *To volunteer as a note taker (it works best if we have 2 or 3) add a  :memo: after your name. These people will make notes in the 'Agenda and Notes' section as we go.*
+> *To volunteer as timekeeper add a :clock1: after your name. This person will nudge us to get back on track if we digress too far, and when we're approaching the end of the meeting and need to wrap up.*
 
 * [name=Name]
 * 
@@ -55,7 +58,7 @@ Zoom: **REDACTED**
 :memo: What would you like lab members' help with?
 ---
 
-> *Please add a bullet point with something you'd like lab members' opinion on.
+> *Please add a bullet point with something you'd like lab members' help with.
 > You may respond to any of the points before or after the lab meeting, no need to wait until the time slot!*
 
 * 
