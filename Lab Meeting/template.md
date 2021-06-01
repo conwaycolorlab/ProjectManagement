@@ -2,11 +2,10 @@
 
 Time: 12:00 - 13:00
 
-Zoom: **REDACTED**
-
+:link: Useful links
 ---
-
-[TOC]
+* Zoom: **REDACTED**
+* Bevil's calendly: https://calendly.com/bevil-conway
 
 :wave: Roll call
 ---
@@ -19,10 +18,9 @@ Zoom: **REDACTED**
 
 * [name=Name]
 * 
-* 
-* 
-* 
-* 
+*
+*
+*
 
 
 :sob: Apologies
@@ -42,6 +40,18 @@ Zoom: **REDACTED**
 * 
 *
 *
+*
+*
+
+:fireworks: Quick-fire updates
+---
+> *How did last week go? E.g. I worked on x and it went like y.*
+
+* 
+*
+*
+*
+*
 
 :loudspeaker: What do you want the lab members to know about?
 ---
@@ -55,7 +65,7 @@ Zoom: **REDACTED**
 * 
 * 
 
-:memo: What would you like lab members' help with?
+:raising_hand: What would you like lab members' help with?
 ---
 
 > *Please add a bullet point with something you'd like lab members' help with.
@@ -77,12 +87,12 @@ Zoom: **REDACTED**
 *
 *
 
-:open_book: Agenda & Notes
+:memo: Agenda & Notes
 ---
 
 > *This meeting is an open agenda.
 > The discussion points will be curated from the sections above.
-> The notetaker(s) will add the notes here as we go. :memo:*
+> The notetaker(s) will add the notes here as we go.*
 
 * 
 * 
@@ -96,7 +106,7 @@ Zoom: **REDACTED**
 > Review the calendar for the week ahead
 *
 
-> Next week agenda items:
+> Agenda items to be copied to the next document
 *
 
 
