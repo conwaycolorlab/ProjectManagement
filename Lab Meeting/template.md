@@ -1,6 +1,6 @@
 # TEMPLATE: Conway Lab Meeting | `DATE`
 
-Time: 12:00 - 13:00
+Time: 11:00 - 12:00
 
 :link: Useful links
 ---
